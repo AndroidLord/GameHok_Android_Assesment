@@ -2,6 +2,9 @@
 
 ## Overview
 The GameHok Android App is designed to provide users with detailed information about various games, including PUBG, Valorant, Apex Legends, Call of Duty, and Counter-Strike. Users can view game details, participate in tournaments, and read or leave comments and reviews. The app is developed using Kotlin in Android Studio.
+
+Used - Jetpack Compose, Nav Graph. 
+
 # Note- Video And ScreenShoot are Available
 ## Features
 
@@ -70,21 +73,13 @@ https://drive.google.com/file/d/148V-vWCFL0qJEV8TjuyOyKqgFnG83Dd6/view?usp=shari
 
 Some screenshots of app to showcase its features. For example:
 
-<div style="overflow-x: scroll; white-space: nowrap;">
-    <img src="https://github.com/AndroidLord/GameHok_Android_Assesment/blob/master/Images/Home1.png" alt="Home Page1" height="200"/>
-    <img src="https://github.com/AndroidLord/GameHok_Android_Assesment/blob/master/Images/Home2.png" alt="Home Page2" height="200"/>
-    <img src="https://github.com/AndroidLord/GameHok_Android_Assesment/blob/master/Images/GameDetail.png" alt="Game Details Overview Tab" height="200"/>
-    <img src="https://github.com/AndroidLord/GameHok_Android_Assesment/blob/master/Images/TournamentDetail.png" alt="Game Tournaments Tab" height="200"/>
+
+<div style="overflow-x: auto; white-space: nowrap;">
+  <img src="https://github.com/AndroidLord/GameHok_Android_Assesment/blob/master/Images/Home1.png" alt="GameHok Android App - Home Page1" width="300" style="display: inline-block; margin-right: 10px;">
+  <img src="https://github.com/AndroidLord/GameHok_Android_Assesment/blob/master/Images/Home2.png" alt="GameHok Android App - Home Page2" width="300" style="display: inline-block; margin-right: 10px;">
+  <img src="https://github.com/AndroidLord/GameHok_Android_Assesment/blob/master/Images/GameDetail.png" alt="GameHok Android App - Game Details Overview Tab" width="300" style="display: inline-block; margin-right: 10px;">
+  <img src="https://github.com/AndroidLord/GameHok_Android_Assesment/blob/master/Images/TournamentDetail.png" alt="GameHok Android App - Game Tournaments Tab" width="300" style="display: inline-block;">
 </div>
-
-
-Home Page1![GameHok Android App - Home Page](https://github.com/AndroidLord/GameHok_Android_Assesment/blob/master/Images/Home1.png)
-
-Home Page2![GameHok Android App - Home Page](https://github.com/AndroidLord/GameHok_Android_Assesment/blob/master/Images/Home2.png)
-
-Game Details Overview Tab![GameHok Android App - Home Page](https://github.com/AndroidLord/GameHok_Android_Assesment/blob/master/Images/GameDetail.png)
-
-Game Tournaments Tab![GameHok Android App - Home Page](https://github.com/AndroidLord/GameHok_Android_Assesment/blob/master/Images/TournamentDetail.png)
 
 
 
